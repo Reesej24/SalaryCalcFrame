@@ -1,0 +1,3 @@
+Activity 10.1 Feedback
+
+This program was fairly easy to build off of the given examples in the lecture. I used the 'Using a Jbutton to trigger a yearly salary calculation' example to build the majority of this code. I then copied certain blocks of code to build the label and text field for the hours worked, added another user input variable for the user specified value for the hours worked per week and entered my new variable in the formula for the calculation and it worked. The contents provided in the lecture made this activity pretty straight forward
